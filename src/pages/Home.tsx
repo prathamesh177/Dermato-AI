@@ -112,17 +112,17 @@ const Home: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <TestimonialCard
               quote="The preliminary analysis helped me identify my skin condition before seeing my dermatologist."
-              author="Sarah Johnson"
+              author="Prathamesh W"
               role="User"
             />
             <TestimonialCard
               quote="As a dermatologist, I find this tool helpful for my patients to track changes in their skin over time."
-              author="Dr. Michael Chen"
+              author="Dr. XYZ"
               role="Dermatologist"
             />
             <TestimonialCard
               quote="The interface is intuitive and the analysis is surprisingly accurate for most common conditions."
-              author="James Wilson"
+              author="Rushi W"
               role="User"
             />
           </div>
