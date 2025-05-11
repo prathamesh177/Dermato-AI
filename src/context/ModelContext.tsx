@@ -30,10 +30,10 @@ interface ModelProviderProps {
 
 const DEFAULT_CLASSES = [
   'Acne and Rosacea',
-  'Atopic Dermatitis',
-  'Bullous Disease',
-  'Cellulitis Impetigo',
-  'Eczema'
+  'Benign',
+  'Eczema',
+  'malignant',
+  'Melanoma Skin Cancer Nevi and Moles'
 ];
 
 interface WeightSpec {
